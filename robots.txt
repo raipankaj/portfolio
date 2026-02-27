@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Specifically allow AI bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://raipankaj.github.io/portfolio/sitemap.xml

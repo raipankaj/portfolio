@@ -1,0 +1,5 @@
+PANKAJ RAI - PRESS BIO
+
+Google Developer Expert for AI, Android, and Firebase.
+
+Author of three books on Generative AI and technical foundations. With over a decade of experience, he specializes in Gen AI implementation, AI Agents development, and architecting high-performance mobile systems. As the creator of KoreDB, he bridges the gap between complex engineering and market-ready products.
